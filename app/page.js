@@ -12,8 +12,6 @@ export default function Home() {
     <p className="text-xl -mx-auto">Le robot multifonctions</p>
     <a className="inline-block px4 py-2 rounded-lg bg-[#8800d4] mt-8"href="https://discord.com/oauth2/authorize?client_id=1230107519406309417&permissions=8&integration_type=0&scope=bot+applications.commands">Ajouter / • Asteroid Bot</a>
     <Image className="mt-96 mx-auto" src="/images/IMG_0930.webp" alt="description" width={512} height={512}/>
-    <h1 className="mt-0 text-xl">Lz rovot dont votre serveur a besoin.</h1>
-    <p className="text-sm">Asteroid Bot est le bot dont votre serveur a besoin, Asteroid Bot est un bot multifonctions polyvalent, prêt à tout pour être ajouté.</p>
     </div>
     </div>
     </div>
