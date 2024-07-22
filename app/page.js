@@ -14,6 +14,9 @@ export default function Home() {
     <Image className="mt-96 mx-auto" src="/images/IMG_0930.webp" alt="description" width={512} height={512}/>
     <h2 className="mt-0 text-xl">Le robot dont votre serveur a besoin.</h2>
     <p className="text-sm">Asteroid Bot est le bot dont votre serveur a besoin, Asteroid Bot est un bot multifonctions polyvalent, prêt à tout pour être ajouté.</p>
+    <Image className="mt-96 mx-auto" src="/images/IMG_1117.webp" alt="description" width={512} height={512}/>
+    <h3 className="mt-0 text-xl">AutoMod</h3>
+    <p className="text-sm">Protégez vos serveurs dès maintenant avec Asteroid Bot et son AutoMod !</p>
     </div>
     </div>
     </div>
